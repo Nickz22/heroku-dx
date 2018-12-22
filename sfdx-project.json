@@ -1,7 +1,7 @@
 {
   "packageDirectories": [
     {
-      "path": "heroku-dx",
+      "path": "hero-dx",
       "default": true
     }
   ],
