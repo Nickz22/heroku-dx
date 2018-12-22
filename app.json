@@ -5,10 +5,12 @@
   },
   "env": {
   "SFDX_DEV_HUB_AUTH_URL": {
-    "required": true
+    "required": true,
+    "generator": "secret"
   },
   "SFDX_BUILDPACK_DEBUG": {
-    "required": true
+    "required": true,
+    "generator":"secret"
   },
   "HEROKU_APP_NAME" : {
     "required": true,
