@@ -1,4 +1,14 @@
-# heroku-dx
-Repo to facilitate heroku ci testing.
+# SFDX  App
 
-TEST EDIT TO INIT FIRST HEROKU PIPELINE TEST.
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
