@@ -11,7 +11,8 @@
     "required": true
   },
   "HEROKU_APP_NAME" : {
-    "required": true
+    "required": true,
+    "generator":"secret"
   }
 },
   "formation": {
