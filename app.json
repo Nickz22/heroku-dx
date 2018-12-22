@@ -1,6 +1,7 @@
 {
   "name": "heroku-dx",
   "scripts": {
+    "pr-predestroy": "./bin/ra-org-delete.sh"
   },
   "env": {
   "SFDX_DEV_HUB_AUTH_URL": {
