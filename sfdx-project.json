@@ -1,11 +1,8 @@
 {
   "packageDirectories": [
     {
-    "path": "force-app",
-    "default": true,
-    "id": "0Ho6A0000000000",
-    "versionNumber": "1.0.0.NEXT",
-    "versionName": "Summer '18"
+      "path": "hero-dx",
+      "default": true
     }
   ],
   "namespace": "",
