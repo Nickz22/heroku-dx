@@ -5,7 +5,8 @@
   },
   "env": {
   "SFDX_DEV_HUB_AUTH_URL": {
-    "required": true
+    "required": true,
+    "value": "force://SalesforceDevelopmentExperience:1384510088588713504:5Aep861fYx7xx84C8h6veXpQ1ASyHR9guU.CXcbjukqbk5D0kMtps_oaXUvJCqn1HT5fJoobj2Wx9M4txX.1gZy@snapchat--Nick.cs95.my.salesforce.com"
   },
   "SFDX_BUILDPACK_DEBUG": {
     "required": true,
