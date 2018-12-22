@@ -5,8 +5,7 @@
   },
   "env": {
   "SFDX_DEV_HUB_AUTH_URL": {
-    "required": true,
-    "generator": "secret"
+    "required": true
   },
   "SFDX_BUILDPACK_DEBUG": {
     "required": true,
